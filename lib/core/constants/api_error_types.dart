@@ -1,0 +1,26 @@
+// ignore_for_file: constant_identifier_names
+
+enum ErrorType {
+  Unauthorized,
+  Forbidden,
+  NotFound,
+  Server,
+  Network,
+  Unknown,
+  Custom,
+  InvalidResponse,
+  UnprocessableEntity,
+  TooManyRequests,
+  ServiceUnavailable,
+  GatewayTimeout,
+  HttpVersionNotSupported,
+  VariantAlsoNegotiates,
+  InsufficientStorage,
+  LoopDetected,
+  NotExtended,
+  NetworkAuthenticationRequired,
+  NetworkConnectTimeoutError,
+  NetworkReadTimeoutError,
+  BadRequest,
+  EmptyResponse,
+}
