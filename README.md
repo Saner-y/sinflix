@@ -96,7 +96,7 @@ Bu projede `domain` ve `usecase` katmanları **bilinçli olarak dahil edilmemiş
 
 ```bash
 git clone <repo-link>
-cd dating_app
+cd sinflix
 flutter pub get
 flutter run
 ```
